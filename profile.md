@@ -1,4 +1,5 @@
-Welcome to my GitHub profile!
-# A first-level heading
-## A second-level heading
-### A third-line heading
+# Introduction to GitHub
+**This text is bold**\
+*This text is Italic*\
+***This text is bold and Italic***\
+~~OOPS I made an error~~
